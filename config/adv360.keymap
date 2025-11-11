@@ -267,7 +267,7 @@
             bindings = <
 &trans  &trans      &trans      &trans   &trans  &trans  &trans                                                &mo 3      &kp N6             &kp KP_NUM       &kp KP_EQUAL     &kp KP_DIVIDE    &kp KP_MULTIPLY  &kp MINUS
 &trans  &kp LS(F1)  &kp LS(F4)  &kp F11  &trans  &trans  &trans                                                &trans     &mmv MOVE_Y(-300)  &kp KP_N7        &mmv MOVE_UP     &kp KP_N9        &kp KP_MINUS     &kp BSLH
-&trans  &kp LS(F9)  &kp LS(F5)  &kp F6   &trans  &trans  &trans     &trans   &trans      &kp LGUI   &kp RCTRL  &trans     &mmv MOVE_Y(-200)  &mmv MOVE_LEFT   &mmv MOVE_DOWN   &mmv MOVE_RIGHT  &kp KP_PLUS      &kp SQT
+&trans  &kp LS(F9)  &kp LS(F5)  &kp F6   &trans  &trans  &trans     &trans   &trans      &kp LGUI   &kp RCTRL  &trans     &mmv MOVE_Y(-300)  &mmv MOVE_LEFT   &mmv MOVE_DOWN   &mmv MOVE_RIGHT  &kp KP_PLUS      &kp SQT
 &trans  &kp LS(F2)  &kp LS(F6)  &kp F11  &trans  &trans                      &trans      &kp PG_UP                        &kp N              &kp KP_N1        &kp KP_N2        &kp KP_N3        &kp KP_ENTER     &kp RSHFT
 &mo 2   &trans      &kp LCTRL   &trans   &trans          &kp LCTRL  &kp F10  &trans      &kp PG_DN  &mkp MB1   &mkp RCLK                     &kp KP_NUMBER_0  &kp KP_NUMBER_0  &kp KP_DOT       &kp RBKT         &mo 2
             >;
